@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HTTPAsk Server/HTTPAsk Server.iml" filepath="$PROJECT_DIR$/HTTPAsk Server/HTTPAsk Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IK1203 Socket Programming Project.iml" filepath="$PROJECT_DIR$/IK1203 Socket Programming Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TCPAsk/TCPAsk.iml" filepath="$PROJECT_DIR$/TCPAsk/TCPAsk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TCPAsk Connections/TCPAsk Connections.iml" filepath="$PROJECT_DIR$/TCPAsk Connections/TCPAsk Connections.iml" />
+    </modules>
+  </component>
+</project>

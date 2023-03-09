@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="HTTPAsk Server">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/HTTPAsk Server/task3_Wrong.zip!/" />
+      <root url="jar://$PROJECT_DIR$/HTTPAsk Server/task3.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
