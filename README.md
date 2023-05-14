@@ -35,3 +35,7 @@ Task 4
 
 In this task, we take the HTTPAsk server we did in Task 3, and turn it into a concurrent server. The server we did for Task 3 deals with one client at a time (most likely). A concurrent server can handle multiple clients in parallel.
 We us Java threading to implement a concurrent server that can handle many clients at the same time. 
+
+---
+
+In order to experiment with this code, you can clone the repository and access it in your preferred code editor. To execute any of the files, you will require the JDK installed on your computer. Once installed, you can compile the code via the terminal and then run the code.
